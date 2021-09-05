@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="note_type">
+        <item>日常环保APP</item>
+        <item>学习环保APP</item>
+        <item>生活环保APP</item>
+        <item>消费环保APP</item>
+        <item>其他环保APP</item>
+    </string-array>
+</resources>
